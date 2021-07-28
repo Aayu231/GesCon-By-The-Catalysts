@@ -1,1 +1,2 @@
-# GestureGame
+# GesCon - Gesture Controlled
+
